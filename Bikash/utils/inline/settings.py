@@ -24,7 +24,7 @@ def setting_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 YouTube 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝑮ʀᴏᴜᴘ 📱", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             ),
         ],
         [
