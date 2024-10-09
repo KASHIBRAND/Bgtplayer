@@ -29,7 +29,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 Youtube 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝑮ʀᴏᴜᴘ 📱", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             )
         ],
      ]
@@ -59,7 +59,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 YouTube 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝑮ʀᴏᴜᴘ 📱", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             )
         ],
         [
