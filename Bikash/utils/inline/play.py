@@ -62,12 +62,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [           
             InlineKeyboardButton(
-                text="📡 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 🎥", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📡 𝑮ʀᴏᴜᴘ 🎥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             ),
         
             InlineKeyboardButton(
                 text="🦁 𝐎𝐰𝐧𝐞𝐫 🦁",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/CHIKU_THE_MUSIC",
             )
         ],
         [
@@ -126,7 +126,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="⏩",
+                text="⏩", 
                 callback_data=f"ADMIN Skip|{chat_id}",
             ),
             InlineKeyboardButton(
@@ -136,11 +136,11 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [           
             InlineKeyboardButton(
-                text="📡 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 🎥", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📡 𝑮ʀᴏᴜᴘ 🎥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             ),
             InlineKeyboardButton(
                 text="🦁 𝐎𝐰𝐧𝐞𝐫 🦁",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/CHIKU_THE_MUSIC",
             )
         ],
         [
@@ -178,11 +178,11 @@ def stream_markup(_, videoid, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="📡 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 🎥", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📡 𝑮ʀᴏᴜᴘ 🎥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             ),
             InlineKeyboardButton(
                 text="🦁 𝐎𝐰𝐧𝐞𝐫 🦁",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/CHIKU_THE_MUSIC",
             )
         ],
         [
@@ -220,11 +220,11 @@ def telegram_markup(_, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="📡 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 🎥", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📡 𝑮ʀᴏᴜᴘ 🎥", url=f"https://t.me/+_qPchBV5z4VjMjM1"
             ),
             InlineKeyboardButton(
                 text="🦁 𝐎𝐰𝐧𝐞𝐫 🦁",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/CHIKU_THE_MUSIC",
             )
         ],
         [
